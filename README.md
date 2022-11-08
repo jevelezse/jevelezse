@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @jevelezse Jennifer Vélez and I'm Bioinformaticiana I loved python and I'm learning Julia. 
+- 👋 Hi, I’m @jevelezse Jennifer Vélez and I'm Bioinformatician I loved python and I'm learning Julia. 
